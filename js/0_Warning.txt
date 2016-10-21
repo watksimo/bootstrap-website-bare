@@ -1,8 +1,0 @@
-
-BLOCKED FILE ALERT
-
-A file has been blocked due to the 'JS Files' rule.
-Context: 'functions.js'
-Disallowed due to 
-Ticket Number: '1484-5809-a5d8-0018'
-See your system administrator for further information. Copyright 1999-2013 McAfee, Inc.All Rights Reserved.http://www.mcafee.com
